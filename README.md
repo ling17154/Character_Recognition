@@ -1,1 +1,1 @@
-# Character_Recognition
+pip install jax 0.4.30,jaxlib 0.4.30
