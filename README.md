@@ -1,9 +1,8 @@
 # Rotation-free Online Handwritten Character Recognition Using Linear Recurrent Units
 
-**Accepted by ICPR 2026**  
-Paper: <a href="https://arxiv.org/abs/2602.01533" title="https://arxiv.org/abs/2602.01533" target="_blank"><img src="/images/ext/file.png" alt="" style="width: 32px; height: 32px; vertical-align: middle;"></a>
-
-This repository contains an implementation of an online handwritten character recognition framework designed for rotation-robust online handwritten input.
+**Accepted by ICPR 2026**
+Paper: [arXiv](https://arxiv.org/abs/2602.01533)
+This repository contains an implementation of an online handwritten character recognition framework specifically designed for rotational online handwritten input.
 
 ## Model Overview
 
@@ -12,7 +11,7 @@ The framework consists of two parts:
 - **Preprocessing Module**: used for trajectory preprocessing and sliding window path signature feature extraction.
 - **Classification Module**: used for sequence classification and final character recognition.
 
-The preprocessing pipeline mainly includes hanging normalization, dynamic feature construction, and sliding window path signature extraction for downstream classification.
+The preprocessing flow mainly includes dangling normalization, dynamic feature construction, and sliding window path feature extraction.
 
 ## Dataset
 
