@@ -12,7 +12,7 @@ The framework consists of two parts:
 - **Preprocessing Module**: used for trajectory preprocessing and sliding window path signature feature extraction.
 - **Classification Module**: used for sequence classification and final character recognition.
 
-The preprocessing flow mainly includes hangling normalization, dynamic feature construction, and sliding window path feature extraction.
+The preprocessing flow mainly includes hanging normalization, dynamic feature construction, and sliding window path feature extraction.
 
 ## Dataset
 
