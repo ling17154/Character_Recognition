@@ -2,6 +2,7 @@
 
 **Accepted by ICPR 2026**
 Paper: [arXiv](https://arxiv.org/abs/2602.01533)
+
 This repository contains an implementation of an online handwritten character recognition framework specifically designed for rotational online handwritten input.
 
 ## Model Overview
